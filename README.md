@@ -62,36 +62,34 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       FOCUS AREAS                            -->
+<!--                        ABOUT ME                              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🧠 My Focus Areas
+## 🎓 About Me
 
-<table align="center">
-  <tr>
-    <td>💻</td><td><b>Full Stack Developer</b></td>
-    <td>🤖</td><td><b>AI | ML Engineer</b></td>
-  </tr>
-  <tr>
-    <td>☁️</td><td><b>DevOps Engineer</b></td>
-    <td>🎨</td><td><b>UI/UX Designer</b></td>
-  </tr>
-</table>
+<p align="center"><b>I'm Tharindu Lakmal Bandara</b></p>
 
-```typescript
-const tharindu = {
-  name        : "Tharindu Lakmal Bandara",
-  username    : "tharindu651",
-  location    : "Trincomalee, Sri Lanka 🇱🇰",
-  education   : "BSc Computer Science — Eastern University Sri Lanka",
-  roles       : ["Full Stack Developer 💻", "AI/ML Engineer 🤖", "DevOps Engineer ☁️", "UI/UX Designer 🎨"],
-  stack       : ["React", "Node.js", "MongoDB", "Express", "TensorFlow", "Python", "Docker", "AWS"],
-  learning    : ["Deep Learning", "Kubernetes", "Cloud Architecture", "TypeScript"],
-  openTo      : ["Collaborations 🤝", "Open Source 🌍", "Internships 🏢"],
-  contact     : "tharindulakmal651@gmail.com",
-  motto       : "Turn ☕ coffee into elegant, intelligent software 🚀"
-};
-```
+<p align="center">
+  🎓 <b>Undergraduate Computer Science Student</b><br/>
+  🏫 Trincomalee Campus, Eastern University Sri Lanka
+</p>
+
+<p align="center">
+  💻 <b>Full Stack Web Developer</b> | 🤖 <b>AI | ML Engineer</b> | ☁️ <b>DevOps Engineer</b> | 🎨 <b>UI/UX Designer</b>
+</p>
+
+<p align="center">
+  🚀 Currently working on <b>Full Stack Web Development</b> and <b>UI/UX Design</b><br/>
+  💡 Learning the <b>MERN Stack</b> and <b>AI | ML</b> — Deep Learning, Model Deployment, Cloud Architecture<br/>
+  💬 Ask me about <b>Web Development</b>, <b>MERN Stack</b>, <b>UI/UX Design</b>, or <b>Networking Concepts</b>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> tharindulakmal651@gmail.com<br/>
+  📞 <b>Phone:</b> 0788069259
+</p>
+
+<p align="center"><b>Let's build something amazing together! 🚀</b></p>
 
 ---
 
