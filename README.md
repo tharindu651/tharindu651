@@ -1,363 +1,467 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED HEADER WITH WAVES                   -->
+<!--                     ANIMATED HEADER BANNER                   -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=250&section=header&text=Tharindu%20Lakmal&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20•%20AI/ML%20•%20Computer%20Vision%20•%20Deep%20Learning%20•%20Sri%20Lanka%20🇱🇰&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tharindu%20Lakmal&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20%7C%20ML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Deep%20Learning%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=17"/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  WORKING TYPING ANIMATION                     -->
+<!--                     ANIMATED HEADING                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Tharindu+Lakmal;AI+%26+Full+Stack+Developer+🤖;Building+Intelligent+Systems+🚀;Computer+Vision+Enthusiast+👁️;Welcome+to+my+GitHub+Universe!+✨" alt="Typing Animation"/>
-</p>
+<h1 align="center">
+  Hey
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="35px" width="35px"/>
+  I'm THARINDU LAKMAL
+</h1>
+<h3 align="center">💻 Computer Science Final Year Student — Eastern University Sri Lanka 🎓</h3>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL BADGES (WORKING)                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/tharindu-lakmal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tharindulakmal651@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/940788069259">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tharindu651">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/tharindu651">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharindu651&label=👁️%20PROFILE%20VIEWS&color=00FFFF&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/tharindu651?label=📁%20FOLLOWERS&style=flat-square&color=00FFFF"/>
-  <img src="https://img.shields.io/github/stars/tharindu651?label=⭐%20TOTAL%20STARS&style=flat-square&color=FFD700"/>
-</p>
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=780&lines=💻+Full+Stack+Developer+%7C+MERN+Stack;🤖+AI+%7C+ML+Engineer+%7C+TensorFlow+%7C+PyTorch;👁️+Computer+Vision+%7C+OpenCV+%7C+CNN;☁️+DevOps+Engineer+%7C+Docker+%7C+Git;🎨+UI%2FUX+Designer+%7C+Figma+%7C+Tailwind+CSS;🏆+GPA+3.2%2F4.0+%7C+Final+Year+CS+Student" alt="Typing SVG"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   ANIMATED DIVIDER                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- Profile Stats -->
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=tharindu651">
+    <img src="https://komarev.com/ghpvc/?username=tharindu651&label=Profile%20views&color=00FFFF&style=flat-square"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/tharindu651?label=Followers&style=flat-square&color=00FFFF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/stars/tharindu651?label=Stars&style=flat-square&color=ffd700&labelColor=0d1117"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/tharindu-lakmal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+  </a>
+  <a href="mailto:tharindulakmal651@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" height="28"/>
+  </a>
+  <a href="https://wa.me/940788069259" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/>
+  </a>
+  <a href="https://github.com/tharindu651" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+  </a>
+</p>
+
+---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME SECTION                         -->
+<!--                        ABOUT ME                              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🎓 About Me
 
-| | |
-|:---:|:---:|
-| 🎓 **Education** | Final Year Computer Science @ Eastern University Sri Lanka |
-| 🏆 **GPA** | 3.2/4.0 |
-| 💻 **Role** | Full Stack Developer & AI/ML Engineer |
-| 🤖 **Specialties** | Computer Vision, Deep Learning, MERN Stack |
-| 🚀 **Currently** | Building AI-powered Medical Imaging Systems |
-| 📍 **Location** | Jayanthipura, Sri Lanka 🇱🇰 |
+<p align="center"><b>I'm Tharindu Lakmal</b></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                GITHUB STATS (WORKING)                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tharindu651&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&ring_color=00FFFF&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu651&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF"/>
+  🎓 <b>Final Year Computer Science Undergraduate</b><br/>
+  🏫 Trincomalee Campus, Eastern University Sri Lanka &nbsp;|&nbsp; 🏆 <b>GPA: 3.2 / 4.0</b>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharindu651&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"/>
+  💻 <b>Full Stack Web Developer</b> | 🤖 <b>AI | ML Engineer</b> | 👁️ <b>Computer Vision</b> | ☁️ <b>DevOps Engineer</b> | 🎨 <b>UI/UX Designer</b>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu651&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF"/>
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=tharindu651&theme=radical&no-frame=true&no-bg=true&row=2&column=4"/>
+  🚀 Currently building <b>AI-powered Full Stack Applications</b> and <b>Computer Vision Systems</b><br/>
+  💡 Specializing in <b>CNN · Deep Learning · LSTM · Medical Image Segmentation · MERN Stack</b><br/>
+  💬 Ask me about <b>Web Development</b>, <b>MERN Stack</b>, <b>AI | ML</b>, <b>Computer Vision</b> or <b>DevOps</b>
 </p>
 
-<br/>
+<p align="center">
+  📧 <b>Email:</b> tharindulakmal651@gmail.com &nbsp;|&nbsp; 📞 <b>Phone:</b> +94 788 069 259<br/>
+  📍 <b>Location:</b> Jayanthipura, Sri Lanka 🇱🇰
+</p>
+
+<p align="center"><b>Let's build something amazing together! 🚀</b></p>
+
+---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                            -->
+<!--                    GITHUB STATS & TROPHIES                   -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🌟 Featured Projects
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tharindu651&cache_seconds=7200&show_icons=true&theme=dark&border_radius=10&count_private=true"/>
+  <img src="https://streak-stats.demolab.com/?user=tharindu651&theme=dark&hide_border=true&ring=00FFFF&fire=ff6b6b&currStreakLabel=00FFFF" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindu651&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=tharindu651&theme=dark&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      🚀 MY PROJECTS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🚀 My Projects
+
+---
+
+### 🌐 Full Stack Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏨 Hotel Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MERN-Stack-00FFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/NodeMailer-Integration-00FF00?style=flat-square"/>
-      </p>
-      <p align="center">Full-stack MERN application with real-time room booking, restaurant ordering, and automated email receipts via NodeMailer.</p>
-      <p align="center">
-        <a href="https://github.com/tharindu651">
-          <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌾 Smart Agriculture AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
-      </p>
-      <p align="center">AI-powered crop intelligence with disease detection, fertilizer recommendations, and yield predictions using CNN models.</p>
-      <p align="center">
-        <a href="https://github.com/tharindu651">
-          <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 Brain Tumor Detection</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/K_Means-Clustering-FF6B6B?style=flat-square"/>
-      </p>
-      <p align="center">MRI image segmentation using K-Means clustering for automated tumor localization and area calculation.</p>
-      <p align="center">
-        <a href="https://github.com/tharindu651">
-          <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚗 Autonomous Navigation</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/CNN-Deep_Learning-00FFFF?style=flat-square"/>
-      </p>
-      <p align="center">Self-driving car model using CNN and behavioral cloning to predict steering angles on Udacity simulator.</p>
-      <p align="center">
-        <a href="https://github.com/tharindu651">
-          <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Management System
+> Full-stack MERN application for complete hotel operations
+
+**✅ Features:**
+- 🛏️ Real-time room booking & availability management
+- 🍽️ Restaurant meal ordering & billing system
+- 📦 Package system with automated pricing
+- 📧 NodeMailer for instant booking & billing receipts
+- 🔐 JWT authentication & secure user management
+- 📱 Responsive modern UI design
+
+**🛠️ Tech Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+
+[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Smart Agriculture AI System
+> AI-powered intelligent farming platform with computer vision
+
+**✅ Features:**
+- 🔬 Crop disease detection via image processing
+- 🤖 AI-based fertilizer & pesticide recommendation
+- 📊 Smart farming insights & yield predictions
+- 🌱 Real-time crop health monitoring
+- 🗺️ Field mapping & management dashboard
+- 📡 IoT sensor data integration
+
+**🛠️ Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+
+</td>
+</tr>
 </table>
 
-<br/>
+---
+
+### 🤖 Machine Learning & Computer Vision Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 😶 Face Recognition System
+> Robust facial identification using ML & feature extraction
+
+**✅ Features:**
+- 🧠 SVM classifier for image classification
+- 🔍 PCA for dimensionality reduction & feature extraction
+- 👁️ Real-time face detection via OpenCV
+- 📊 Optimized for high-accuracy identification
+- 🗃️ Trained on labeled face image datasets
+
+**🛠️ Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Autonomous Navigation System (CNN)
+> Self-driving model using Deep Learning & Behavioral Cloning
+
+**✅ Features:**
+- 🧠 CNN-based steering angle prediction
+- 🎮 Behavioral Cloning from human driving data
+- 🏎️ Trained on Udacity simulator dataset
+- ⚠️ Real-time obstacle avoidance logic
+- 📈 End-to-end learning pipeline
+- 🔄 Data augmentation for robust generalization
+
+**🛠️ Tech Stack:**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛣️ Autonomous Lane & Distance Detection
+> Real-time computer vision pipeline for road safety
+
+**✅ Features:**
+- 🛣️ Lane detection using Hough Transform
+- 🔍 Canny Edge Detection for boundary extraction
+- 📏 Inter-vehicle distance estimation
+- 📷 Monocular Vision & spatial calibration
+- ⚡ Real-time video stream processing
+- 🚦 Road marking & curvature analysis
+
+**🛠️ Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Vehicle Counter (Image Processing)
+> Real-time traffic monitoring & vehicle counting system
+
+**✅ Features:**
+- 🎯 Haar Cascade algorithm for vehicle detection
+- 📍 Region of Interest (ROI) based counting
+- 🔢 Real-time vehicle count tracking & logging
+- 📊 Traffic density analysis & statistics
+- 🎥 Live video feed processing
+- 📁 Count log export & reporting
+
+**🛠️ Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Haar Cascade](https://img.shields.io/badge/Haar_Cascade-FF6B6B?style=flat-square&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+
+</td>
+</tr>
+</table>
+
+---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--              COMPLETE PROJECTS BY CATEGORY                     -->
+<!--                   LANGUAGES & TOOLS                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Project Portfolio
+## 🛠️ Languages & Tools
 
-<details>
-<summary><b>🌐 Full Stack Web Applications</b> (Click to expand)</summary>
-<br/>
-
-| Project | Tech Stack | Key Features |
-|---------|------------|--------------|
-| 🏨 **Hotel Booking & Meal System** | MERN, NodeMailer | Real-time bookings, email receipts, restaurant ordering |
-| 🌾 **Smart Agriculture Machine Booking** | React, Node.js, MySQL | Tractor booking + paddy marketplace |
-| 🛒 **MERN E-Commerce Platform** | React, Node, Express, MySQL | JWT auth, cart persistence, order management |
-| ✅ **Task Management Tool** | MERN Stack | RESTful API, CRUD operations |
-
-</details>
-
-<details>
-<summary><b>🤖 Machine Learning & Deep Learning</b> (Click to expand)</summary>
-<br/>
-
-| Project | Tech Stack | Accuracy |
-|---------|------------|----------|
-| 🦠 **COVID-19 Outbreak Prediction** | Python, Linear Regression | 89% |
-| 😶 **Face Recognition System** | Scikit-learn, SVM, PCA | 94% |
-| 🧠 **Brain Tumor Detection** | Python, OpenCV, K-Means | 92% |
-| ❤️ **Heart Disease Risk Predictor** | Keras, React, Flask | 87% |
-| 📈 **Stock Market Trend Predictor** | LSTM, TensorFlow | 82% |
-
-</details>
-
-<details>
-<summary><b>👁️ Computer Vision Projects</b> (Click to expand)</summary>
-<br/>
-
-| Project | Tech Stack | Application |
-|---------|------------|-------------|
-| 🛣️ **Autonomous Lane & Distance Detection** | OpenCV, Hough Transform | Self-driving assistance |
-| 🚗 **Vehicle Counter** | OpenCV, Haar Cascade | Traffic monitoring |
-| 🌾 **Smart Agriculture AI** | TensorFlow, OpenCV, Flask | Crop disease detection |
-
-</details>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                 TECH STACK (WORKING ICONS)                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
+> ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&theme=dark&perline=6"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin:4px"/>
 </p>
 
+> ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask&theme=dark&perline=6"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin:4px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin:4px"/>
 </p>
 
+> ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark&perline=5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin:4px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="48" height="48" style="margin:4px"/>
 </p>
 
+> ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy&theme=dark&perline=6"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" style="margin:4px"/>
 </p>
 
+> ### 🤖 AI / ML & Computer Vision
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,figma&theme=dark&perline=8"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" style="margin:4px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" style="margin:4px"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="48" height="48" style="margin:4px"/>
 </p>
 
-<br/>
+> ### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin:4px"/>
+</p>
+
+> ### 🎨 Design & Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin:4px"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="48" height="48" style="margin:4px"/>
+</p>
+
+---
+
+<!-- Top Languages -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindu651&langs_count=10&layout=compact&theme=dark&border_radius=10"/>
+</p>
+
+---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                PAC-MAN CONTRIBUTION GRAPH                     -->
+<!--                   PAC-MAN CONTRIBUTION GRAPH                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🕹️ Contribution Snake Game
+## 🕹️ Pac-Man Eats My Contributions!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-> ⚠️ **Note:** To enable your own contribution snake, create a GitHub Action workflow. See setup instructions below.
-
-<br/>
+---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    SOFT SKILLS                                -->
+<!--                      SOFT SKILLS                             -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🤝 Soft Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Team_Collaboration-00FFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👑_Leadership-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⏰_Time_Management-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💡_Critical_Thinking-A855F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🗣️_Communication-22C55E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧩_Problem_Solving-FFA500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-00FFFF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Time%20Management-FFD700?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Critical%20Thinking-A855F7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Effective%20Communication-22C55E?style=for-the-badge&logoColor=white"/>
 </p>
 
-<br/>
+---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    QUOTE OF THE DAY                           -->
+<!--                      CONNECT WITH ME                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 💭 Developer Quote
+## 🔗 Connect with Me
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
-</p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                 CONNECT & SUPPORT                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/tharindu-lakmal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="left">
+  <a href="mailto:tharindulakmal651@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF"/>
   </a>
-  <a href="https://github.com/tharindu651">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:tharindulakmal651@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/940788069259">
+  <a href="https://wa.me/940788069259" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tharindu651">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee"/>
+  <a href="https://linkedin.com/in/tharindu-lakmal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tharindu651" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<br/>
+---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED FOOTER                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- Buy Me a Coffee -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tharindu651" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height:41px !important;width:174px !important;"/>
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
 <div align="center">
-  <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/⭐_Star_my_repos-FFD700?style=flat-square"/>
-    <img src="https://img.shields.io/badge/🔔_Follow_for_updates-00FFFF?style=flat-square"/>
-  </p>
-  
-  <p>
-    <i>Made with ❤️ by Tharindu Lakmal — AI Full Stack Developer</i><br/>
-    <i>📍 Jayanthipura, Sri Lanka 🇱🇰 | 📧 tharindulakmal651@gmail.com</i>
-  </p>
+
+### 💬 Dev Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+⭐ **If you find my work helpful, please star my repositories!**
+
+*Made with ❤️ by [Tharindu Lakmal](https://github.com/tharindu651) — Let's build something amazing together! 🚀*
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
 
+---
 <!--
-  ⚙️ TO ENABLE CONTRIBUTION SNAKE ANIMATION:
-  
-  1. Create `.github/workflows/snake.yml`:
-  
-  name: Generate Snake Animation
+  ✅ PAC-MAN SETUP INSTRUCTIONS:
+  Create .github/workflows/pacman.yml in your tharindu651/tharindu651 repo:
+
+  name: Generate Pacman Graph
   on:
     schedule:
-      - cron: "0 0 * * *"
+      - cron: "0 */12 * * *"
     workflow_dispatch:
   jobs:
     build:
       runs-on: ubuntu-latest
       steps:
-        - uses: Platane/snk@v3
+        - uses: Platane/snk/svg-only@v3
           with:
             github_user_name: tharindu651
             outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+              dist/pacman-contribution-graph.svg
+              dist/pacman-contribution-graph-dark.svg?palette=github-dark&snake=pac-man
         - uses: crazy-max/ghaction-github-pages@v3
           with:
             target_branch: output
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  2. Replace the image URL in the snake section with:
-     https://raw.githubusercontent.com/tharindu651/tharindu651/output/github-contribution-grid-snake-dark.svg
+
+  Then update image URLs in README to:
+  https://raw.githubusercontent.com/tharindu651/tharindu651/output/pacman-contribution-graph-dark.svg
+  https://raw.githubusercontent.com/tharindu651/tharindu651/output/pacman-contribution-graph.svg
 -->
