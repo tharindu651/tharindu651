@@ -1,133 +1,193 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER BANNER                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--              🌊 ANIMATED HEADER — VORTEX STYLE                   -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tharindu%20Lakmal&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20%7C%20ML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Deep%20Learning%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=17"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=THARINDU%20LAKMAL&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=✦%20Full%20Stack%20Developer%20✦%20AI%20%7C%20ML%20Engineer%20✦%20Computer%20Vision%20✦%20DevOps%20✦&descAlignY=65&descSize=16&descColor=00FFFF"/>
+</div>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADING                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--              🐧 ANIMATED HEADING + WAVE EMOJI                    -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <h1 align="center">
-  Hey
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="35px" width="35px"/>
-  I'm THARINDU LAKMAL
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="40px" width="40px"/>
+  Hey There! I'm THARINDU LAKMAL
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="40px" width="40px"/>
 </h1>
-<h3 align="center">💻 Computer Science Final Year Student — Eastern University Sri Lanka 🎓</h3>
 
-<!-- Typing Animation -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" height="25px" width="25px"/>
+  Computer Science Final Year Student — Eastern University Sri Lanka
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" height="25px" width="25px"/>
+</h3>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                   ⌨️ MULTI-LINE TYPING ANIMATIONS                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=780&lines=💻+Full+Stack+Developer+%7C+MERN+Stack;🤖+AI+%7C+ML+Engineer+%7C+TensorFlow+%7C+PyTorch;👁️+Computer+Vision+%7C+OpenCV+%7C+CNN;☁️+DevOps+Engineer+%7C+Docker+%7C+Git;🎨+UI%2FUX+Designer+%7C+Figma+%7C+Tailwind+CSS;🏆+GPA+3.2%2F4.0+%7C+Final+Year+CS+Student" alt="Typing SVG"/>
+
+  <!-- Main Role Typer -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=700&color=00FFFF&center=true&vCenter=true&width=800&lines=💻+Full+Stack+Developer+%7C+MERN+Stack+🚀;🤖+AI+%7C+ML+Engineer+%7C+TensorFlow+%7C+PyTorch;👁️+Computer+Vision+Expert+%7C+OpenCV+%7C+CNN;☁️+DevOps+Engineer+%7C+Docker+%7C+Kubernetes;🎨+UI%2FUX+Designer+%7C+Figma+%7C+Tailwind+CSS;🏆+GPA+3.2%2F4.0+%7C+Final+Year+CS+Student+🎓;🌟+Building+Intelligent+Software+Solutions!" alt="Typing SVG" />
+
+  <br/>
+
+  <!-- Quote Typer -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=✨+%22Turning+Ideas+into+Intelligent+Reality%22+✨;🔥+%22Code+is+Poetry+Written+in+Logic%22+🔥;💡+%22Building+Tomorrow's+Solutions+Today%22+💡;🌍+%22From+Sri+Lanka+to+the+World+%F0%9F%87%B1%F0%9F%87%B0%22" alt="Quote Typer" />
+
 </div>
 
 <br/>
 
-<!-- Profile Stats -->
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=tharindu651">
-    <img src="https://komarev.com/ghpvc/?username=tharindu651&label=Profile%20views&color=00FFFF&style=flat-square"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/tharindu651?label=Followers&style=flat-square&color=00FFFF&labelColor=0d1117"/>
-  <img src="https://img.shields.io/github/stars/tharindu651?label=Stars&style=flat-square&color=ffd700&labelColor=0d1117"/>
-</p>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  📊 PROFILE STATS BADGES                         -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<!-- Social Badges -->
-<p align="center">
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=tharindu651">
+    <img src="https://komarev.com/ghpvc/?username=tharindu651&label=👁️%20Profile%20Views&color=00FFFF&style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/tharindu651?label=👥%20Followers&style=for-the-badge&color=00FFFF&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/tharindu651?label=⭐%20Stars&style=for-the-badge&color=FFD700&labelColor=0d1117"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    🔗 ANIMATED SOCIAL LINKS                      -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
   <a href="https://linkedin.com/in/tharindu-lakmal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tharindulakmal651@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" height="28"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/940788069259" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://github.com/tharindu651" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+  <a href="https://www.buymeacoffee.com/tharindu651" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--              🌈 ANIMATED DIVIDER                                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-## 🎓 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<p align="center"><b>I'm Tharindu Lakmal</b></p>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      👨‍💻 ABOUT ME SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  🎓 <b>Final Year Computer Science Undergraduate</b><br/>
-  🏫 Trincomalee Campus, Eastern University Sri Lanka &nbsp;|&nbsp; 🏆 <b>GPA: 3.2 / 4.0</b>
-</p>
+<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<p align="center">
-  💻 <b>Full Stack Web Developer</b> | 🤖 <b>AI | ML Engineer</b> | 👁️ <b>Computer Vision</b> | ☁️ <b>DevOps Engineer</b> | 🎨 <b>UI/UX Designer</b>
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35px"/> About Me
 
-<p align="center">
-  🚀 Currently building <b>AI-powered Full Stack Applications</b> and <b>Computer Vision Systems</b><br/>
-  💡 Specializing in <b>CNN · Deep Learning · LSTM · Medical Image Segmentation · MERN Stack</b><br/>
-  💬 Ask me about <b>Web Development</b>, <b>MERN Stack</b>, <b>AI | ML</b>, <b>Computer Vision</b> or <b>DevOps</b>
-</p>
+<br/>
 
-<p align="center">
-  📧 <b>Email:</b> tharindulakmal651@gmail.com &nbsp;|&nbsp; 📞 <b>Phone:</b> +94 788 069 259<br/>
-  📍 <b>Location:</b> Jayanthipura, Sri Lanka 🇱🇰
-</p>
+&nbsp;&nbsp; 🎓 **Final Year CS Undergraduate** @ Eastern University SL
 
-<p align="center"><b>Let's build something amazing together! 🚀</b></p>
+&nbsp;&nbsp; 🏆 **Current GPA: 3.2 / 4.0**
 
----
+&nbsp;&nbsp; 💻 **Full Stack** | 🤖 **AI/ML** | 👁️ **Computer Vision** | ☁️ **DevOps**
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS & TROPHIES                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+&nbsp;&nbsp; 🚀 Building **AI-powered Full Stack Applications**
 
-## 📊 GitHub Stats & Trophies
+&nbsp;&nbsp; 🧠 Specializing in **CNN · Deep Learning · LSTM · MERN Stack**
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tharindu651&cache_seconds=7200&show_icons=true&theme=dark&border_radius=10&count_private=true"/>
-  <img src="https://streak-stats.demolab.com/?user=tharindu651&theme=dark&hide_border=true&ring=00FFFF&fire=ff6b6b&currStreakLabel=00FFFF" width="49%"/>
-</p>
+&nbsp;&nbsp; 💡 Learning **Cloud Architecture · Kubernetes · Model Deployment**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindu651&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" width="98%"/>
-</p>
+&nbsp;&nbsp; 💬 Ask me about **MERN · AI/ML · Computer Vision · DevOps**
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=tharindu651&theme=dark&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
+&nbsp;&nbsp; 📧 **tharindulakmal651@gmail.com**
 
----
+&nbsp;&nbsp; 📞 **+94 788 069 259**
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      🚀 MY PROJECTS                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+&nbsp;&nbsp; 📍 **Jayanthipura, Sri Lanka** 🇱🇰
 
-## 🚀 My Projects
+<br/>
+
+**<p>&nbsp;&nbsp; 🚀 Let's build something amazing together!</p>**
+
+<br/><br/><br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                   📊 GITHUB STATS SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35px"/> GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tharindu651&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=tharindu651&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideLabels=ffffff&dates=ffffff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindu651&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=ffffff"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharindu651&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFD700&area=true&hide_border=true&area_color=00FFFF"/>
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=tharindu651&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    🚀 PROJECTS SECTION                           -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"/> My Projects
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🌐+Full+Stack+%7C+🤖+AI%2FML+%7C+👁️+Computer+Vision;Real+Projects+%7C+Real+Impact+%7C+Real+Code+💪" alt="Projects Typer"/>
+</div>
+
+<br/>
 
 ---
 
 ### 🌐 Full Stack Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🏨 Hotel Management System
-> Full-stack MERN application for complete hotel operations
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=350&lines=Full-Stack+MERN+Application;Real-time+Booking+%26+Billing+System" alt="hotel"/>
+
+</div>
 
 **✅ Features:**
-- 🛏️ Real-time room booking & availability management
-- 🍽️ Restaurant meal ordering & billing system
-- 📦 Package system with automated pricing
-- 📧 NodeMailer for instant booking & billing receipts
-- 🔐 JWT authentication & secure user management
+- 🛏️ Real-time room booking & availability
+- 🍽️ Restaurant meal ordering & billing
+- 📦 Package system & automated pricing
+- 📧 NodeMailer instant booking receipts
+- 🔐 JWT authentication & user management
 - 📱 Responsive modern UI design
 
-**🛠️ Tech Stack:**
+**🛠️ Stack:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -135,13 +195,22 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
-[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharindu651)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🌾 Smart Agriculture AI System
-> AI-powered intelligent farming platform with computer vision
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=350&lines=AI-Powered+Intelligent+Farming;Crop+Disease+Detection+%7C+CV+%2B+ML" alt="agri"/>
+
+</div>
 
 **✅ Features:**
 - 🔬 Crop disease detection via image processing
@@ -149,9 +218,9 @@
 - 📊 Smart farming insights & yield predictions
 - 🌱 Real-time crop health monitoring
 - 🗺️ Field mapping & management dashboard
-- 📡 IoT sensor data integration
+- 📡 Computer Vision analysis pipeline
 
-**🛠️ Tech Stack:**
+**🛠️ Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -159,7 +228,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharindu651)
+
+</div>
 
 </td>
 </tr>
@@ -169,51 +242,70 @@
 
 ### 🤖 Machine Learning & Computer Vision Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 😶 Face Recognition System
-> Robust facial identification using ML & feature extraction
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=350&lines=SVM+%2B+PCA+Face+Identification;Real-Time+OpenCV+Detection" alt="face"/>
+
+</div>
 
 **✅ Features:**
 - 🧠 SVM classifier for image classification
-- 🔍 PCA for dimensionality reduction & feature extraction
+- 🔍 PCA for dimensionality reduction
 - 👁️ Real-time face detection via OpenCV
-- 📊 Optimized for high-accuracy identification
-- 🗃️ Trained on labeled face image datasets
+- 📊 High-accuracy facial identification
+- 🗃️ Trained on labeled face datasets
+- ⚡ Optimized feature extraction pipeline
 
-**🛠️ Tech Stack:**
+**🛠️ Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharindu651)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Autonomous Navigation System (CNN)
-> Self-driving model using Deep Learning & Behavioral Cloning
+<div align="center">
+
+### 🚗 Autonomous Navigation (CNN)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=350&lines=Self-Driving+CNN+%2B+Behavioral+Cloning;Udacity+Simulator+%7C+TensorFlow" alt="cnn"/>
+
+</div>
 
 **✅ Features:**
 - 🧠 CNN-based steering angle prediction
-- 🎮 Behavioral Cloning from human driving data
+- 🎮 Behavioral Cloning from human driving
 - 🏎️ Trained on Udacity simulator dataset
-- ⚠️ Real-time obstacle avoidance logic
+- ⚠️ Real-time obstacle avoidance
 - 📈 End-to-end learning pipeline
-- 🔄 Data augmentation for robust generalization
+- 🔄 Data augmentation for generalization
 
-**🛠️ Tech Stack:**
+**🛠️ Stack:**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharindu651)
+
+</div>
 
 </td>
 </tr>
@@ -221,228 +313,248 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛣️ Autonomous Lane & Distance Detection
-> Real-time computer vision pipeline for road safety
+<div align="center">
+
+### 🛣️ Lane & Distance Detection
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=350&lines=Hough+Transform+%2B+Canny+Edge;Monocular+Distance+Estimation" alt="lane"/>
+
+</div>
 
 **✅ Features:**
 - 🛣️ Lane detection using Hough Transform
-- 🔍 Canny Edge Detection for boundary extraction
+- 🔍 Canny Edge Detection for boundaries
 - 📏 Inter-vehicle distance estimation
 - 📷 Monocular Vision & spatial calibration
 - ⚡ Real-time video stream processing
-- 🚦 Road marking & curvature analysis
+- 🚦 Road curvature & marking analysis
 
-**🛠️ Tech Stack:**
+**🛠️ Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharindu651)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Vehicle Counter (Image Processing)
-> Real-time traffic monitoring & vehicle counting system
+<div align="center">
+
+### 🚙 Vehicle Counter
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=350&lines=Haar+Cascade+Traffic+Monitoring;Real-Time+ROI+Vehicle+Counting" alt="vehicle"/>
+
+</div>
 
 **✅ Features:**
-- 🎯 Haar Cascade algorithm for vehicle detection
-- 📍 Region of Interest (ROI) based counting
-- 🔢 Real-time vehicle count tracking & logging
-- 📊 Traffic density analysis & statistics
+- 🎯 Haar Cascade vehicle detection
+- 📍 Region of Interest (ROI) counting
+- 🔢 Real-time count tracking & logging
+- 📊 Traffic density analysis & stats
 - 🎥 Live video feed processing
 - 📁 Count log export & reporting
 
-**🛠️ Tech Stack:**
+**🛠️ Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Haar Cascade](https://img.shields.io/badge/Haar_Cascade-FF6B6B?style=flat-square&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tharindu651)
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharindu651)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   LANGUAGES & TOOLS                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                   🛠️ TECH STACK SECTION                          -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Languages & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35px"/> Languages & Tools
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🔧+My+Complete+Technology+Arsenal+🔧;From+Frontend+to+AI+%7C+Full+Coverage!" alt="tools typer"/>
+</div>
+
+<br/>
 
 > ### 💻 Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php" height="50"/>
 </p>
 
 > ### 🌐 Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin:4px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite,electron" height="50"/>
 </p>
 
 > ### ⚙️ Backend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin:4px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="48" height="48" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,flask,php" height="50"/>
 </p>
 
 > ### 🗄️ Databases
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" height="50"/>
 </p>
 
 > ### 🤖 AI / ML & Computer Vision
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" style="margin:4px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" style="margin:4px"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="48" height="48" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,sklearn,anaconda,jupyter" height="50"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
+  &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" alt="Seaborn"/>
 </p>
 
 > ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,linux" height="50"/>
 </p>
 
 > ### 🎨 Design & Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin:4px"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="48" height="48" style="margin:4px"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,postman" height="50"/>
 </p>
-
----
-
-<!-- Top Languages -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindu651&langs_count=10&layout=compact&theme=dark&border_radius=10"/>
-</p>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   PAC-MAN CONTRIBUTION GRAPH                 -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🕹️ Pac-Man Eats My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      SOFT SKILLS                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Soft Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Teamwork-00FFFF?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Time%20Management-FFD700?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Critical%20Thinking-A855F7?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Effective%20Communication-22C55E?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT WITH ME                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="mailto:tharindulakmal651@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF"/>
-  </a>
-  <a href="https://wa.me/940788069259" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/tharindu-lakmal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tharindu651" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Buy Me a Coffee -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tharindu651" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height:41px !important;width:174px !important;"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### 💬 Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br/>
 
-⭐ **If you find my work helpful, please star my repositories!**
+<!-- Top Languages -->
+<div align="center">
+  <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindu651&langs_count=10&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=ffffff"/>
+</div>
 
-*Made with ❤️ by [Tharindu Lakmal](https://github.com/tharindu651) — Let's build something amazing together! 🚀*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                🕹️ PAC-MAN CONTRIBUTION GRAPH                     -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35px"/> Pac-Man Eats My Contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    🤝 SOFT SKILLS                                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="35px"/> Soft Skills
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/🤝%20Teamwork-00FFFF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🎯%20Leadership-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⏰%20Time%20Management-FFD700?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🧠%20Critical%20Thinking-A855F7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💬%20Communication-22C55E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐%20Multilingual-0077B5?style=for-the-badge&logoColor=white"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=🗣️+English+%7C+Sinhala+%7C+Tamil;🌟+Open+to+Collaborations+%26+Internships!" alt="languages"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                   🔗 CONNECT WITH ME                             -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="35px"/> Connect with Me
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=📬+Let's+Connect+%26+Collaborate!;🚀+Always+Open+to+New+Opportunities!" alt="connect typer"/>
+
+  <br/><br/>
+
+  <a href="mailto:tharindulakmal651@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/940788069259" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/tharindu-lakmal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/tharindu651" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+  </a>
+
+</div>
+
+<br/>
+
+<!-- Buy Me a Coffee -->
+<div align="center">
+  <a href="https://www.buymeacoffee.com/tharindu651" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height:45px !important;width:190px !important;"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      💬 DEV QUOTE                                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=💭+Today's+Inspiration..." alt="quote typer"/>
+
+  <br/>
+
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=⭐+Star+my+repos+if+you+find+them+helpful!;🙏+Thanks+for+visiting+my+profile!;🚀+Made+with+❤️+by+Tharindu+Lakmal+from+🇱🇰" alt="footer typer"/>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    🌊 ANIMATED FOOTER WAVE                       -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling&fontColor=fff"/>
 
 ---
+
 <!--
-  ✅ PAC-MAN SETUP INSTRUCTIONS:
-  Create .github/workflows/pacman.yml in your tharindu651/tharindu651 repo:
+  ✅ PAC-MAN SETUP — Create .github/workflows/pacman.yml:
 
   name: Generate Pacman Graph
   on:
-    schedule:
-      - cron: "0 */12 * * *"
+    schedule: [{cron: "0 */12 * * *"}]
     workflow_dispatch:
   jobs:
     build:
@@ -461,7 +573,7 @@
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  Then update image URLs in README to:
+  Then update image srcset URLs to:
   https://raw.githubusercontent.com/tharindu651/tharindu651/output/pacman-contribution-graph-dark.svg
   https://raw.githubusercontent.com/tharindu651/tharindu651/output/pacman-contribution-graph.svg
 -->
